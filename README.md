@@ -42,7 +42,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 Setting up <b/>Roles</b>  inside of osTicket allows you to setup specific roles for the agents working inside of your osTicket. There are different roles that are used for different agents. Some agents might be set to view only while other agents can create, delete, merge, etc. You can make you own roles with specific rules that you want for the agents. 
 
 
-<b/>The Department</b> section will help group up specific agents together that specialize in the same branch of Information Technology. For example, setting up a group of agents that all work within the Sys admin job title will help organize then osTicket. Setting up Teams within osTicket is similar to groups. Teams are used to get people from multiple departments to be able to work and resolve certain tickets. 
+<b/>The Department</b> section will help group up specific agents together that specialize in the same branch of Information Technology. For example, setting up a group of agents that all work within the Sys admin job title will help organize them in osTicket. Setting up Teams within osTicket is similar to groups. Teams are used to get people from multiple departments to be able to work and resolve certain tickets. 
 
 
 <b/>Agents</b> are made as the employees that work on tickets and solve other issues within osTicket. Agents can be given specific roles and can work on specific tickets given to them.
